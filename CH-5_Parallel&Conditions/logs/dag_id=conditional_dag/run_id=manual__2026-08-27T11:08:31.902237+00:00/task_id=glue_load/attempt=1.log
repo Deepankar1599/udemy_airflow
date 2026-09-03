@@ -1,0 +1,4 @@
+{"timestamp":"2026-08-27T11:08:37.898095Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":209}
+{"timestamp":"2026-08-27T11:08:37.899074Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/3_conditional_dag.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":469}
+{"timestamp":"2026-08-27T11:08:37.955296Z","level":"info","event":"Loading data to Glue:  ['data1', 'data2', 'data3', 'data4', 'data5', 'data6', 'data7', 'data8', 'data9']","logger":"task.stdout"}
+{"timestamp":"2026-08-27T11:08:37.955240Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":229}

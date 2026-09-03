@@ -1,0 +1,4 @@
+{"timestamp":"2026-09-02T17:14:57.611735Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":209}
+{"timestamp":"2026-09-02T17:14:57.612550Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":469}
+{"timestamp":"2026-09-02T17:14:57.674368Z","level":"info","event":"Loading Data : {'city': 'New York', 'temp_celsius': 30, 'temp_fahrenheit': 86.0}","logger":"task.stdout"}
+{"timestamp":"2026-09-02T17:14:57.674638Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":229}
